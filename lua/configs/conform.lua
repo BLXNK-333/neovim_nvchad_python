@@ -7,6 +7,7 @@ local options = {
     typescript = { "prettier" },
     typescriptreact = { "prettier" },
     javascriptreact = { "prettier" },
+    markdown = {"prettier"},
     python = { "black" },
   },
 
